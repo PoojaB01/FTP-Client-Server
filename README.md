@@ -1,7 +1,8 @@
-# FILE TRANSFER PROTOCOL USING CLIENT-SERVER SOCKET PROGRAMMING
+# FILE TRANSFER PROTOCOL 
+### Using client-server socket programming
 
 Creators:
-  * Pooja Gajendra Bhagat , Department: CSE, Roll number: 180101057
+  * Pooja Gajendra Bhagat, Department: CSE, Roll number: 180101057
   * Saurabh Baranwal, Department: CSE, Roll number: 180101072
 
 The following is a C-based implementation of File Transfer Protocol (FTP). It has the following 5 functionalities:
